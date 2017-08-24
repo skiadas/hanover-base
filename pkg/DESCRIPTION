@@ -8,10 +8,11 @@ Maintainer: Haris Skiadas <cskiadas@gmail.com>
 Description: This package loads needed packages and offers data for Hanover College's
     statistics classes.
 License: MIT
-Depends: R (>= 3.3.1), mosaic, tidyverse, lattice
+Depends: R (>= 3.3.1), mosaic, tidyverse, RColorBrewer, lattice
 RoxygenNote: 6.0.1.9000
 LazyData: true
 Imports:
     mosaic,
     tidyverse,
+    RColorBrewer,
     lattice
