@@ -75,6 +75,7 @@
 #'    \item{exerciseany}{Whether the respondent participated in any physical activities other than work in the last month.}
 #'    \item{hivtest}{Whether the respondent has ever been tested for HIV.}
 #'    \item{age}{The age of the respondent in 5-year intervals.}
+#'    \item{age7}{The age of the respondent in 10-year intervals.}
 #' }
 #' @source \url{https://www.cdc.gov/brfss/annual_data/annual_data.htm}
 "brfss"
