@@ -39,13 +39,13 @@ brfss
 }
 \description{
 Data from the BRFSS survey conducted annually by the \emph{Centers for Disease Control
-and Prevention} (CDC). It contains a random sample of 100000 out of a total
+and Prevention} (CDC). It contains a random sample of 10000 out of a total
 1.3 million cases across four years (2000, 2005, 2010, 2015).
 }
 \details{
 Data Source: \url{https://www.cdc.gov/brfss/annual_data/annual_data.htm}
 }
 \seealso{
-\code{\link{brfss2}} for the full dataset
+\code{\link{brfss2}} for the full dataset, and \code{\link{brfss3}} for a random subset of 100,000 cases instead.
 }
 \keyword{datasets}
