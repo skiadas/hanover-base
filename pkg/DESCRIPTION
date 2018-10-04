@@ -12,7 +12,8 @@ Depends: R (>= 3.3.0), mosaic, tidyverse, RColorBrewer, lattice
 RoxygenNote: 6.0.1.9000
 LazyData: true
 Imports:
-    mosaic,
+    mosaicCore,
+    mosaicData,
     tidyverse,
     RColorBrewer,
     lattice
