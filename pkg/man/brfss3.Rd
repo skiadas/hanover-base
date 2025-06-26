@@ -4,7 +4,8 @@
 \name{brfss3}
 \alias{brfss3}
 \title{Behavioral Risk Factor Surveillance System}
-\format{A data frame
+\format{
+A data frame
 \describe{
    \item{state}{The respondent's state or entity of residence.}
    \item{year}{The interview year.}
@@ -30,7 +31,8 @@
    \item{hivtest}{Whether the respondent has ever been tested for HIV.}
    \item{age}{The age of the respondent in 5-year intervals.}
    \item{age7}{The age of the respondent in 10-year intervals.}
-}}
+}
+}
 \source{
 \url{https://www.cdc.gov/brfss/annual_data/annual_data.htm}
 }
